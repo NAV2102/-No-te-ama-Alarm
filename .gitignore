@@ -105,3 +105,4 @@ venv.bak/
 
 n = input("Ingresa una palabra: ")
 print(n)
+print("Recuerda que ella no te ama")
