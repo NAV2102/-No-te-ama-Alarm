@@ -103,5 +103,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-n = "hola"
-print(n):
+n = "HOLA"
+print(n)
